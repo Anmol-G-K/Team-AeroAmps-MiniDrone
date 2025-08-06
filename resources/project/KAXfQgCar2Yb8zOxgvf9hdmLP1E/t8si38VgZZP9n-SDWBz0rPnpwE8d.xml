@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Info File="mainModels/parrotMinidroneCompetition.slx" GroupUUID="8b595501-8885-42db-97cb-789b358fa64e" Icon="" Name="Open Quadcopter Model" Type="StartUp" Visible="0"/>
+<Info File="mainModels/parrotMinidroneCompetition.slx" GroupUUID="8b595501-8885-42db-97cb-789b358fa64e" Icon="" Name="Open Quadcopter Model" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="7cbe1ab5-4418-4e0c-b5c8-02e257daef7f"/>
+</Info>
